@@ -1,7 +1,7 @@
 <h1># Trabajo Final Potenciar Argentina </h1>
 
 
-Descripción: 
+<h3><b>Descripción:</b></h3>
 
    Trabajo Final para el cueso "FullCoders: curso introductorio - Comisión 20/21606" de la plataforma Potenciar Argentina.
 
