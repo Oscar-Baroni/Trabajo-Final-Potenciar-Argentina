@@ -1,6 +1,6 @@
 Algoritmo registradorDeAsistencia
 	
-	Definir nombreCurso Como Real
+	Definir nombreCurso Como Caracter
 	Definir cantidadDeAlumnos Como Entero
 	Definir dias Como Entero
 	
