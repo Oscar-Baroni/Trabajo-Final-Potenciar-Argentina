@@ -1,5 +1,17 @@
 <h1># Trabajo Final Potenciar Argentina </h1>
 
+<b>FullCoder:</b> Curso introductorio.
+
+<b>Comisión:</b> 20/21606.
+
+<b>Entrega:</b> septiembre 2023.
+
+<b>Proyecto:</b> Registrador de Asistencia Escolar.
+
+<b>Alumno:</b> Baroni Oscar Adolfo – DNI: 31542309
+
+<b>Tutor:</b> Gustavo Trinitario
+
 
 <h3><b>Descripción:</b></h3>
 
@@ -21,4 +33,24 @@
 
 <h3><b>6 - Presentación Final:</b></h3> Creá un documento que presente tu aplicación y el proceso que seguiste para desarrollarla. Explica cómo aplicar los conceptos de pensamiento computacional, pseudocódigo, Git/Github y metodologías ágiles en tu proyecto. Colocá todos los links que consideres necesarios para que el tutor pueda acceder al repositorio y los documentos asociados. Este documento es el que deberás subir al campus en el espacio de trabajo final.
 
+<h1>Idea para el desarrollo de la Aplicación</h1>
 
+   Para el trabajo final se pensó la siguiente temática para desarrollar una Aplicación, en relación a las actividades rutinarias que me tocan realizar en mi trabajo. Actualmente me desempeño en cargos de preceptor, dentro de establecimientos educativos de nivel secundario. Entre mi rutina diaria tengo que cumplir con la tarea de tomar asistencia a los cursos que tengo asignados. Es por ello que, se pensó en la creación de una aplicación que me permita cumplir con este trabajo.
+
+   La idea a desarrollar trata sobre una aplicación destinada a la toma de asistencia de los alumnos, para llevar un mejor control del presentismo y la regularidad académica a lo largo del ciclo lectivo. 
+
+   En base a las características anteriormente mencionadas, y con las posibilidades teórico-técnicas que contamos a la fecha, según lo visto a lo largo de la cursada de capacitación, buscaremos desarrollar con el programa PSeInt un aplicativo que contenga las siguientes características:   
+
+   1.	Creación de un curso.
+   2.	Creación de un listado de alumnos.
+   3.	Emitir un informe del curso creado.
+   4.	Definir un periodo del calendario escolar.
+   5.	Registrar el presente o ausente a clases, por parte de los alumnos, en dicho periodo.
+   6.	Emitir un informe final donde se detallen todos los datos cargados.
+
+<h2>Demostración de la aplicación desarrollada en PSeInt</h2>
+
+<div align="center"><img src="Video de demostracion/Demo (gif velocidad aumentada).gif" alt="imagen demo del registrador de asistencia"></div>
+
+<h2>Autor:</h2>
+<p>Oscar Adolfo Baroni <a href="https://www.linkedin.com/in/oscar-adolfo-baroni/">(Linkedin)</a></p>
