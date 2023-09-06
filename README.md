@@ -17,6 +17,8 @@
 
 <h3><b>‌4 - GitHub:</b></h3> Crea un repositorio en Github para tu proyecto. Realiza un seguimiento de las versiones del código a medida que avanzas en el desarrollo (si corresponde) y documenta los cambios utilizando commits significativos y mensajes claros.
 
-‌<h3><b>4 - Metodologías Ágiles:</b></h3> Aplica conceptos de metodologías ágiles para gestionar tu proyecto individualmente. Dividí el trabajo en tareas más pequeñas, establece plazos y realiza seguimiento de tu progreso de forma ficcionada, como si luego de hacer un prototipo en Pseint deberías planificar el sistema real.
+‌<h3><b>5 - Metodologías Ágiles:</b></h3> Aplica conceptos de metodologías ágiles para gestionar tu proyecto individualmente. Dividí el trabajo en tareas más pequeñas, establece plazos y realiza seguimiento de tu progreso de forma ficcionada, como si luego de hacer un prototipo en Pseint deberías planificar el sistema real.
 
-<h3><b>‌5 - Presentación Final:</b></h3> Creá un documento que presente tu aplicación y el proceso que seguiste para desarrollarla. Explica cómo aplicar los conceptos de pensamiento computacional, pseudocódigo, Git/Github y metodologías ágiles en tu proyecto. Colocá todos los links que consideres necesarios para que el tutor pueda acceder al repositorio y los documentos asociados. Este documento es el que deberás subir al campus en el espacio de trabajo final.
+<h3><b>6 - Presentación Final:</b></h3> Creá un documento que presente tu aplicación y el proceso que seguiste para desarrollarla. Explica cómo aplicar los conceptos de pensamiento computacional, pseudocódigo, Git/Github y metodologías ágiles en tu proyecto. Colocá todos los links que consideres necesarios para que el tutor pueda acceder al repositorio y los documentos asociados. Este documento es el que deberás subir al campus en el espacio de trabajo final.
+
+
